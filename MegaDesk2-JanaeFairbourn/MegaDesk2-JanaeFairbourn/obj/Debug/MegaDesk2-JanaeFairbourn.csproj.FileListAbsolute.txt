@@ -1,0 +1,16 @@
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\bin\Debug\MegaDesk2-JanaeFairbourn.exe.config
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\bin\Debug\MegaDesk2-JanaeFairbourn.exe
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\bin\Debug\MegaDesk2-JanaeFairbourn.pdb
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2-JanaeFairbourn.csprojAssemblyReference.cache
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2_JanaeFairbourn.MainMenu.resources
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2_JanaeFairbourn.Properties.Resources.resources
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2-JanaeFairbourn.csproj.GenerateResource.cache
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2-JanaeFairbourn.csproj.CoreCompileInputs.cache
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2-JanaeFairbourn.exe
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2-JanaeFairbourn.pdb
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2_JanaeFairbourn.AddQuote.resources
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2_JanaeFairbourn.DisplayQuotes.resources
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2_JanaeFairbourn.SearchQuotes.resources
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fai12\source\repos\MegaDesk2-JanaeFairbourn\MegaDesk2-JanaeFairbourn\obj\Debug\MegaDesk2-JanaeFairbourn.csproj.CopyComplete

@@ -1,0 +1,89 @@
+[
+  {
+    "rushOrder": [
+      [
+        0,
+        60,
+        70
+      ],
+      [
+        80,
+        40,
+        50
+      ],
+      [
+        60,
+        30,
+        35
+      ]
+    ],
+    "Desk": {
+      "Width": 0.0,
+      "Depth": 0.0,
+      "Drawers": 0,
+      "Material": 0
+    },
+    "Shipping": 0,
+    "Customer": "Reinna",
+    "Date": "0001-01-01T00:00:00",
+    "Price": 1000.00
+  },
+  {
+    "rushOrder": [
+      [
+        0,
+        60,
+        70
+      ],
+      [
+        80,
+        40,
+        50
+      ],
+      [
+        60,
+        30,
+        35
+      ]
+    ],
+    "Desk": {
+      "Width": 0.0,
+      "Depth": 0.0,
+      "Drawers": 0,
+      "Material": 0
+    },
+    "Shipping": 3,
+    "Customer": "Sharon",
+    "Date": "0001-01-01T00:00:00",
+    "Price": 375.00
+  },
+  {
+    "rushOrder": [
+      [
+        0,
+        60,
+        70
+      ],
+      [
+        80,
+        40,
+        50
+      ],
+      [
+        60,
+        30,
+        35
+      ]
+    ],
+    "Desk": {
+      "Width": 4.0,
+      "Depth": 3.0,
+      "Drawers": 2,
+      "Material": 1
+    },
+    "Shipping": 1,
+    "Customer": "Janae",
+    "Date": "0001-01-01T00:00:00",
+    "Price": 500.00
+  }
+]
